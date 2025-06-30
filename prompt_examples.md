@@ -25,3 +25,43 @@
 > * Interesting and practical
 > * Include a **clean and user-friendly GUI** (if applicable)
 
+
+# CV **Creation Request – Prompt number 2**
+
+## Objective:
+Create a **professional CV** for a **Data Science student** with the following key roles and skills:
+- Data Engineer  
+- Front-End Developer  
+- Prompt Engineer  
+- LLM and Machine Learning Explorer  
+
+## Instructions:
+
+1. **Follow a Provided CV Template**  
+   I will first share a CV template design that you must follow to create the layout and formatting of the CV.
+
+2. **Use My LinkedIn Profile for Content**  
+   Fill all relevant sections of the CV using details from my LinkedIn profile:  
+   👉 [www.linkedin.com/in/arosha-amin](https://www.linkedin.com/in/arosha-amin)
+
+3. **Add Certifications**  
+   I will provide you the links to my certifications.  
+   - Add a dedicated section for certifications  
+   - Make each certificate a clickable hyperlink in the document
+
+4. **Include Extra-Curricular Activities / Societies**  
+   Add information about:
+   - Societies I’ve joined  
+   - Roles I’ve held  
+   - Events or workshops I’ve hosted or participated in
+
+5. **(Optional) Additional CV Content**  
+   If you need more information to complete the CV, ask me and I will provide my previous CV file or missing details manually.
+
+---
+
+Please wait for the following:
+- The **CV template design**
+- My **previous CV** (if needed)
+- The **certification links**
+
