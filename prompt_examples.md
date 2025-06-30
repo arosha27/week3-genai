@@ -65,3 +65,14 @@ Please wait for the following:
 - My **previous CV** (if needed)
 - The **certification links**
 
+
+
+#  **Summary Generator - prompt number 3**
+Generate a structured summary from the following weekly learning notes. Use bullet points and markdown formatting. Organize the output under clear headings such as:
+
+- Concepts Learned
+- Tools & Libraries Explored
+- Projects & Applications
+- Key Takeaways
+
+Based on notes user will provide , generate a clean summary.Dont't add information from your side if you don't know. If the user provides feedback like "make it more concise" or "add emojis," apply that style to improve the summary.
